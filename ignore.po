@@ -1,0 +1,103 @@
+#  Doesn't have any letters
+msgid "-"
+msgstr ""
+
+#  Doesn't have any letters
+msgid " "
+msgstr ""
+
+#  Doesn't have any letters
+msgid "  "
+msgstr ""
+
+#  Doesn't have any letters
+msgid "   "
+msgstr ""
+
+#  Doesn't have any letters
+msgid "..."
+msgstr ""
+
+#  Doesn't have any letters
+msgid "?"
+msgstr ""
+
+#  Doesn't have any letters
+msgid "_"
+msgstr ""
+
+#  Doesn't look like text
+msgid "1x"
+msgstr ""
+
+#  Doesn't have any letters
+msgid "<>"
+msgstr ""
+
+#  Doesn't look like text
+msgid "0.########°"
+msgstr ""
+
+#  Doesn't look like text
+msgid "0.#####`"
+msgstr ""
+
+#  Doesn't have any letters
+msgid "0.####``"
+msgstr ""
+
+#  Doesn't have any letters
+msgid "01"
+msgstr ""
+
+#  Doesn't have any letters
+msgid "02"
+msgstr ""
+
+#  Doesn't have any letters
+msgid "03"
+msgstr ""
+
+#  Doesn't have any letters
+msgid "04"
+msgstr ""
+
+#  Doesn't have any letters
+msgid "05"
+msgstr ""
+
+#  Doesn't have any letters
+msgid "06"
+msgstr ""
+
+#  Doesn't have any letters
+msgid "07"
+msgstr ""
+
+#  Doesn't have any letters
+msgid "08"
+msgstr ""
+
+#  Doesn't have any letters
+msgid "09"
+msgstr ""
+
+#  Doesn't have any letters
+msgid "41001292446592"
+msgstr ""
+
+#  Doesn't look like text
+msgid "COM1"
+msgstr ""
+
+#  Doesn't look like text
+msgid "&u&b&d"
+msgstr ""
+
+#  Doesn't look like text
+msgid "&w&bPage &p of &P"
+msgstr ""
+
+#  Doesn't look like text
+msgid "<HTML></HTML>"
+msgstr ""
